@@ -58,7 +58,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
-- Thanks to [Dr. Angela Yu](https://www.linkedin.com/in/angela-yu/) and the App Brewery team for creating such a beginner-friendly and practical course.
+- Thanks to Angela Yu and the App Brewery team for creating such a beginner-friendly and practical course.
 - Inspired by the #100DaysOfCode challenge.
 
 ---
