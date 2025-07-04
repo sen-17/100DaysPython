@@ -35,6 +35,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 6   | ✅ Done | Python Functions & Karel |
 | 7   | ✅ Done | Hangman Project |
 | 8   | ✅ Done | Function Parameters & Caesar Cipher Project |
+| 9   | ✅ Done | Dictionaries, Nesting & Auction Project |
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
