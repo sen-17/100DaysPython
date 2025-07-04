@@ -54,4 +54,8 @@ travel_log = {
 
 print(travel_log["Germany"]["cities_visited"][2])
 
+# Max function in dictionaries
+fruits = {"apple" : 2, "pear" : 4, "orange" : 9}
+max(fruits, key=fruits.get)
+
 
