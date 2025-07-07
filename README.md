@@ -38,6 +38,8 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 9   | ✅ Done | Dictionaries, Nesting & Auction Project |
 | 10  | ✅ Done | Functions with outputs, Docstring & Calculator Project|
 | 11  | ✅ Done | Capstone Project - Blackjack|
+| 12  | ✅ Done | Scope & Number Guessing Project|
+| 13  | ✅ Done | Debugging|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
