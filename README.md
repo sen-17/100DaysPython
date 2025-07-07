@@ -40,6 +40,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 11  | ✅ Done | Capstone Project - Blackjack|
 | 12  | ✅ Done | Scope & Number Guessing Project|
 | 13  | ✅ Done | Debugging|
+| 14  | ✅ Done | Capstone Project - Higher or Lower|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
