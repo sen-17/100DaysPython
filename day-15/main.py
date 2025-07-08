@@ -198,7 +198,7 @@ def restock():
         resources["milk"] += milk
         resources["coffee"] += coffee
 
-        print(f"Succesfully added Water: {water}vml\nMilk: {milk} ml\nCoffee: {coffee} gr")
+        print(f"Succesfully added Water: {water}ml\nMilk: {milk} ml\nCoffee: {coffee} gr")
 
     except ValueError:
         print("Input a valid integer.")
