@@ -41,6 +41,8 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 12  | ✅ Done | Scope & Number Guessing Project|
 | 13  | ✅ Done | Debugging|
 | 14  | ✅ Done | Capstone Project - Higher or Lower|
+| 15  | ✅ Done | Coffee Machine Project|
+| 16  | ✅ Done | Object Oriented Programming|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
