@@ -1,4 +1,4 @@
-# 🧠 Python Quiz Game (Day 17 – #100DaysOfCode)
+# 🧠 Python Quiz Game 
 
 This is a simple command-line **Quiz App** built with Python using Object-Oriented Programming (OOP). It's a Day 17 project of the **100 Days of Code** challenge, following Angela Yu's Udemy course.
 
