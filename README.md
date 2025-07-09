@@ -43,6 +43,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 14  | ✅ Done | Capstone Project - Higher or Lower|
 | 15  | ✅ Done | Coffee Machine Project|
 | 16  | ✅ Done | Object Oriented Programming|
+| 17  | ✅ Done | Quiz Project Using OOP|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
