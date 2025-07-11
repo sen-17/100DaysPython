@@ -46,7 +46,7 @@ while race_on:
                 print(f"You've lost! the winning color {winning_color} turtle won the race.")
             break
        
-screen.exitonclick
+screen.exitonclick()
 
 
 
