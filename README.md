@@ -45,6 +45,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 16  | ✅ Done | Object Oriented Programming|
 | 17  | ✅ Done | Quiz Project Using OOP|
 | 18  | ✅ Done | Turtle & the Graphical User Interface (GUI)|
+| 19  | ✅ Done | Higher Order Functions and Instances|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
