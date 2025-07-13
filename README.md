@@ -47,7 +47,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 18  | ✅ Done | Turtle & the Graphical User Interface (GUI)|
 | 19  | ✅ Done | Higher Order Functions and Instances|
 | 20  | ✅ Done | Snake Game |
-| 20  | ✅ Done | Class Inheritence and Slicing |
+| 21  | ✅ Done | Class Inheritence and Slicing |
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
