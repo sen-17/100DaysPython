@@ -48,6 +48,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 19  | ✅ Done | Higher Order Functions and Instances|
 | 20  | ✅ Done | Snake Game |
 | 21  | ✅ Done | Class Inheritence and Slicing |
+| 22  | ✅ Done | Pong Game|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
