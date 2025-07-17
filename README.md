@@ -50,7 +50,8 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 21  | ✅ Done | Class Inheritence and Slicing |
 | 22  | ✅ Done | Pong Game|
 | 23  | ✅ Done | Capstone Project - Turtle Crossing Game|
-| 24  | ✅ Done | Working with CSV and pandas|
+| 24  | ✅ Done | Files , Directories & Path |
+| 25  | ✅ Done | Working with CSV and pandas|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
