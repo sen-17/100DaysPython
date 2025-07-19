@@ -53,6 +53,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 24  | ✅ Done | Files , Directories & Path |
 | 25  | ✅ Done | Working with CSV and pandas|
 | 26  | ✅ Done | List Comprehension & NATO Alphabet Project|
+| 27  | ✅ Done |Tkinter, *args , and **kwargs |
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
