@@ -55,7 +55,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 26  | ✅ Done | List Comprehension & NATO Alphabet Project|
 | 27  | ✅ Done |Tkinter, *args , and **kwargs |
 | 28  | ✅ Done |Tkinter , Dynamic Typing , and Pomodoro Project|
-| 28  | ✅ Done |Password Manager App with Tkinter|
+| 29  | ✅ Done |Password Manager App with Tkinter|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
