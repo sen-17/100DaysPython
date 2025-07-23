@@ -57,7 +57,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 28  | ✅ Done |Tkinter , Dynamic Typing , and Pomodoro Project|
 | 29  | ✅ Done |Password Manager App with Tkinter|
 | 30  | ✅ Done |Errors , Exception and JSON data|
-| 30  | ✅ Done |Capstone Project - Flash Card App|
+| 31  | ✅ Done |Capstone Project - Flash Card App|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
