@@ -60,7 +60,7 @@ check_button.grid(row=1 , column=1)
 # Wrong Button
 x_image = PhotoImage(file=r"day-31\flash-card-project-start\images\wrong.png")
 wrong_button = Button(image=x_image, highlightthickness=0, command=get_word)
-wrong_button.grid(row=0, column=1)
+wrong_button.grid(row=1, column=0)
 
 get_word()
 
