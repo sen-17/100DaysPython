@@ -1,0 +1,10 @@
+Happy Birthday, {name}!
+
+Hi {name},
+
+Wishing you the happiest of birthdays!  
+I hope your day is filled with laughter, joy, and everything you have been hoping for.  
+Here is to another amazing year ahead. Cheers!
+
+Best wishes,  
+Jasson
