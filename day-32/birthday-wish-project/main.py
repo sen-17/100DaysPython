@@ -3,6 +3,10 @@ import random
 import pandas as pd
 import datetime as dt
 import pytz
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 # Paths
 birth_data = r"day-32\birthday-wish-project\birthday_data\Birthday Date - Sheet1 (1).csv"
@@ -13,7 +17,7 @@ letter_templates = [letter_template_1, letter_template_2, letter_template_3]
 
 # Email and Pass
 my_email = "urbestpren@gmail.com"
-password = "mmmdnvdvtngcuajt"
+password = os.getenv("password")
 
 # Get Date
 tz_NY = pytz.timezone('Asia')
