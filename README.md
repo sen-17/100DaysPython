@@ -60,6 +60,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 31  | ✅ Done |Capstone Project - Flash Card App|
 | 32  | ✅ Done |Send email(smtplib) & Manage dates|
 | 33  | ✅ Done |API endpoints & parameters|
+| 34  | ✅ Done |GUI Quiz App|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
