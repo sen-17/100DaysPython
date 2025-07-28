@@ -62,6 +62,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 33  | ✅ Done |API endpoints & parameters|
 | 34  | ✅ Done |GUI Quiz App|
 | 35  | ✅ Done |Keys, Authentication, and Environment Variables|
+| 36  | ✅ Done |Stock Trading News Alert Project|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
