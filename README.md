@@ -64,6 +64,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 35  | ✅ Done |Keys, Authentication, and Environment Variables|
 | 36  | ✅ Done |Stock Trading News Alert Project|
 | 37  | ✅ Done |Habit Tracking Project: API Post Requests & Headers|
+| 37  | ✅ Done |Work Out Tracker Using Google Sheets |
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
