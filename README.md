@@ -71,6 +71,9 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 42  | ✅ Done |Intermediate HTML|
 | 43  | ✅ Done |Introduction to CSS|
 | 44  | ✅ Done |Intermediate CSS|
+| 45  | ✅ Done |Web Scraping with Beautifulsoup|
+| 46  | ✅ Done |Spotify Playlist using Beautifulsoup|
+| 47  | ✅ Done |Automated amazon price tracker|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
