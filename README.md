@@ -74,6 +74,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 45  | ✅ Done |Web Scraping with Beautifulsoup|
 | 46  | ✅ Done |Spotify Playlist using Beautifulsoup|
 | 47  | ✅ Done |Automated amazon price tracker|
+| 48  | ✅ Done |Selenium webdriver and Game Playing Bot |
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
