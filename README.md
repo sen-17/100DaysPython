@@ -78,6 +78,8 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 49  | ✅ Done |Automation Job Applications Linkedin |
 | 50  | ✅ Done |Tinder auto swiping Bot|
 | 51  | ✅ Done |Complaining Twitter Bot|
+| 52  | ✅ Done |Instagram Follow Automation|
+| 53  | ✅ Done |Capstone Project - Data Entry Automation|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
