@@ -80,6 +80,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 51  | ✅ Done |Complaining Twitter Bot|
 | 52  | ✅ Done |Instagram Follow Automation|
 | 53  | ✅ Done |Capstone Project - Data Entry Automation|
+| 54  | ✅ Done |Intro to Flask|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
