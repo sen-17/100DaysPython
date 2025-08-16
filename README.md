@@ -81,6 +81,7 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 52  | ✅ Done |Instagram Follow Automation|
 | 53  | ✅ Done |Capstone Project - Data Entry Automation|
 | 54  | ✅ Done |Intro to Flask|
+| 55  | ✅ Done |URL Parsing in Flask and Higher and Lower Game|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
