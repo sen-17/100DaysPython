@@ -82,6 +82,9 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 53  | ✅ Done |Capstone Project - Data Entry Automation|
 | 54  | ✅ Done |Intro to Flask|
 | 55  | ✅ Done |URL Parsing in Flask and Higher and Lower Game|
+| 56  | ✅ Done |Rendering HTML/Static Files|
+| 57  | ✅ Done |Templating with Jinja|
+| 58  | ✅ Done |Bootstrap|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
