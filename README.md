@@ -85,6 +85,8 @@ The course spans **100 days** of consistent practice and coding challenges that 
 | 56  | ✅ Done |Rendering HTML/Static Files|
 | 57  | ✅ Done |Templating with Jinja|
 | 58  | ✅ Done |Bootstrap|
+| 59  | ✅ Done |POST Request with Flask and HTML Forms|
+| 60  | ✅ Done |Advanced Forms with Flask-WTForm|
 | ... | ...    | ... |
 | 100 | 🔜     | Coming soon! |
 
